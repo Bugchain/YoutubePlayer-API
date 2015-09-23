@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YoutubePlayer API</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="play_in_activity">Play in new activity</string>
+
+</resources>
